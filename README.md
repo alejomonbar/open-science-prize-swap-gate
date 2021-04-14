@@ -6,9 +6,10 @@ In our approach, we use the same sequence of pulses from the default SWAP gate, 
 
 The document is organize as follows:
 
-Amplitude of the Gaussian Pulse Calibration
-Amplitude of the Derivative Gaussian Pulse Calibration
-Amplitude of the Cross Resonance Pulse Calibration
-Amplitude of the rotary echoes in the target qubit calibration
-Testing using the SWAP gate
+- Amplitude of the Gaussian Pulse Calibration
+- Amplitude of the Derivative Gaussian Pulse Calibration
+- Amplitude of the Cross Resonance Pulse Calibration
+- Amplitude of the rotary echoes in the target qubit calibration
+- Testing using the SWAP gate
+
 [1] “Optimal quantum control using randomized benchmarking,” Physical Review Letters, vol. 112, no. 24, pp. 1–5, 2014.
