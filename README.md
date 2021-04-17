@@ -10,3 +10,7 @@ The document is organize as follows:
 - Testing using the SWAP gate 
 
 [1] “Optimal quantum control using randomized benchmarking,” Physical Review Letters, vol. 112, no. 24, pp. 1–5, 2014.
+
+
+## Results
+![res_mine](https://user-images.githubusercontent.com/11268357/115100146-7368da80-9f00-11eb-9972-48f26a6fc3b9.png)
